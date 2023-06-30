@@ -1,2 +1,2 @@
-# Android_development
-A collection of all my android apps I've created
+# App_development
+A collection of iOS and android apps I've created
